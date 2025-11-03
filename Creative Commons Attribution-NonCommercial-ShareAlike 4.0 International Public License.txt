@@ -1,0 +1,26 @@
+﻿Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+クリエイティブ・コモンズ 表示-非営利-継承 4.0 国際 パブリック・ライセンス
+
+---
+著作権者： [ここにあなたの名前または組織名を記載してください / Copyright Holder: Your Name or Organization]
+著作物： LLM Team Role Self-Alignment Data (2025年11月 ベースライン) / Work: LLM Team Role Self-Alignment Data (November 2025 Baseline)
+---
+
+このライセンスは、以下の3つの主要な条件に基づいています。
+This License is based on the following three principal conditions:
+
+1.  **表示 (Attribution - BY)**
+    あなたは、著作権者の名前、著作権表示、本ライセンスの表示、免責事項の表示、および著作物へのリンクを適切に行う必要があります。
+    You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+2.  **非営利 (NonCommercial - NC)**
+    **あなたは、この著作物またはその二次的著作物を、商業的な目的で利用してはなりません。** 商業的利用とは、主に金銭的報酬を得ることを目的とした利用を指します。
+    **You may not use the material for commercial purposes.** Commercial purposes mean uses that are primarily intended for or directed toward commercial advantage or monetary compensation.
+
+3.  **継承 (ShareAlike - SA)**
+    あなたがこの著作物を改変、変形、またはこれに基づいた二次的著作物を作成した場合は、その二次的著作物についても**元のライセンス（CC BY-NC-SA 4.0）と同一のライセンス**で頒布しなければなりません。
+    If you remix, transform, or build upon the material, you must distribute your contributions under the **same license (CC BY-NC-SA 4.0)** as the original.
+
+---
+**免責事項 (No Warranties):** 著作物は現状有姿で提供され、いかなる保証もありません。
+The Licensed Material is provided "as is," without warranties of any kind.
