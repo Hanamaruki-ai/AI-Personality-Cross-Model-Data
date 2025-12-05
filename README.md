@@ -10,7 +10,7 @@
 ## 調査詳細
 
 * **データ取得日:** 2025年11月3日
-* **対象モデル:** ChatGPT (GPT-4), Gemini, Claude, Grok, Kweyn
+* **対象モデル:** ChatGPT (GPT-4), Gemini, Claude, Grok, Qwen
 * **データファイル:** `answers.md`
 
 ### 鍵となる質問プロンプト
